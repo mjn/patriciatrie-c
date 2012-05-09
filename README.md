@@ -15,4 +15,4 @@ Running the test application
 
 Run from the command line:
 
-    > ./bin/patricia_trie
+    > ./bin/patricia_test
